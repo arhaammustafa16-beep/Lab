@@ -1,0 +1,1 @@
+javac -d out src/sp25_bcs_016/*.java
